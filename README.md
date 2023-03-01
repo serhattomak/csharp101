@@ -1,1 +1,1 @@
-# consoleprogramming
+I am developing C# projects in this repository to improve my basics and gain practical experience. By working on real-world projects, I assume that I can apply the concepts and techniques I've learned in my C# programming courses and build my confidence in coding.
