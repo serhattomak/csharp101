@@ -1,5 +1,5 @@
 ﻿
-//Write the numbers one by one until the entered number.
+//Write the odd numbers one by one until the entered number.
 Console.WriteLine("Please enter a number:");
 int counter =int.Parse(Console.ReadLine());
 Console.WriteLine("*****");
