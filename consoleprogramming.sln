@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMethods", "ArrayMethods\ArrayMethods.csproj", "{DE5BB51B-8086-4479-A1B0-484F6CEF883E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{2AB3677A-85D8-4385-A5C4-D32C4FA0A21C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{2AB3677A-85D8-4385-A5C4-D32C4FA0A21C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{8C1F819B-13F2-4BF2-A19C-E2E5C365D4DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{8C1F819B-13F2-4BF2-A19C-E2E5C365D4DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExtensionMethods", "RecursiveExtensionMethods\RecursiveExtensionMethods.csproj", "{11D6FB8E-4C6F-445F-91B6-853105F29B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExtensionMethods", "RecursiveExtensionMethods\RecursiveExtensionMethods.csproj", "{11D6FB8E-4C6F-445F-91B6-853105F29B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmQuestionsHomework", "AlgorithmQuestionsHomework\AlgorithmQuestionsHomework.csproj", "{2D2C9425-5CF7-4A60-9DBA-8D96D0ADD99C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{11D6FB8E-4C6F-445F-91B6-853105F29B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11D6FB8E-4C6F-445F-91B6-853105F29B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11D6FB8E-4C6F-445F-91B6-853105F29B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2C9425-5CF7-4A60-9DBA-8D96D0ADD99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2C9425-5CF7-4A60-9DBA-8D96D0ADD99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2C9425-5CF7-4A60-9DBA-8D96D0ADD99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2C9425-5CF7-4A60-9DBA-8D96D0ADD99C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
