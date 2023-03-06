@@ -55,7 +55,6 @@ do
     Console.WriteLine("Please enter a positive number: ");
     number2 = int.Parse(Console.ReadLine());
     controllednumber = Control(number2);
-
 } while (!controllednumber);
 
 int[] divisorNumbers = new int[number2];
