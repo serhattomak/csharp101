@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\Arra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{DF5168BA-E185-4153-B7B3-F2CF3EF54EFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{EF28AA4E-D4F4-443E-80D5-BF1532F9FE24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{EF28AA4E-D4F4-443E-80D5-BF1532F9FE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorMethod", "ConstructorMethod\ConstructorMethod.csproj", "{474096BB-F233-4D6E-84F7-439EF6B74F09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{EF28AA4E-D4F4-443E-80D5-BF1532F9FE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF28AA4E-D4F4-443E-80D5-BF1532F9FE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF28AA4E-D4F4-443E-80D5-BF1532F9FE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474096BB-F233-4D6E-84F7-439EF6B74F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474096BB-F233-4D6E-84F7-439EF6B74F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474096BB-F233-4D6E-84F7-439EF6B74F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474096BB-F233-4D6E-84F7-439EF6B74F09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
