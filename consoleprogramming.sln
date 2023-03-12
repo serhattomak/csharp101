@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorMethod", "ConstructorMethod\ConstructorMethod.csproj", "{474096BB-F233-4D6E-84F7-439EF6B74F09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{F183830A-8DE8-4050-A1B0-ABCA95007A6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{F183830A-8DE8-4050-A1B0-ABCA95007A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassesAndMembers", "StaticClassesAndMembers\StaticClassesAndMembers.csproj", "{0998A12C-5079-4AD2-A6A5-41F9E25D933A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{F183830A-8DE8-4050-A1B0-ABCA95007A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F183830A-8DE8-4050-A1B0-ABCA95007A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F183830A-8DE8-4050-A1B0-ABCA95007A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0998A12C-5079-4AD2-A6A5-41F9E25D933A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0998A12C-5079-4AD2-A6A5-41F9E25D933A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0998A12C-5079-4AD2-A6A5-41F9E25D933A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0998A12C-5079-4AD2-A6A5-41F9E25D933A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
