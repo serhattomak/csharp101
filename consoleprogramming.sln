@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{C892E3F3-E412-4140-BA8D-3789EBE3A351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{C7232A48-7E98-467C-AAA9-D65820E1CC5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{C7232A48-7E98-467C-AAA9-D65820E1CC5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismAndSealedClass", "PolymorphismAndSealedClass\PolymorphismAndSealedClass.csproj", "{47E2D4FC-3DC6-4212-9059-ECDFEE2004DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{C7232A48-7E98-467C-AAA9-D65820E1CC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7232A48-7E98-467C-AAA9-D65820E1CC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7232A48-7E98-467C-AAA9-D65820E1CC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E2D4FC-3DC6-4212-9059-ECDFEE2004DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E2D4FC-3DC6-4212-9059-ECDFEE2004DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E2D4FC-3DC6-4212-9059-ECDFEE2004DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E2D4FC-3DC6-4212-9059-ECDFEE2004DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
